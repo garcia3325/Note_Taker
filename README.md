@@ -31,7 +31,9 @@ Project is created with:
 
 ## Installation
 1- To open this project in vscode using git in Terminal/Git Bash:
+
 2- $ cd in directory there you want to store your project
+
 3- $ git clone(https://github.com/garcia3325/Note_Taker.git)
 
 ## Instructions
