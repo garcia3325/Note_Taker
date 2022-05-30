@@ -3,11 +3,17 @@
 ## Table of contents
 
 1-[General info](##-General-Info)
+
 2-[Technologies](##Technologies)
+
 3-[Installation](##Installation)
+
 4-[Instructions](##Instructions)
+
 5-[Features](##Features)
+
 6-[Usage](##Usage)
+
 7-[Screenshots](##Screenshots)
 
 
