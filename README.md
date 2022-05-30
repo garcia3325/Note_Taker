@@ -2,13 +2,19 @@
 
 ## Table of contents
 
--[General info](##-General-Info)
--[Technologies](##Technologies)
--[Installation](##Installation)
--[Instructions](##Instructions)
--[Features](##Features)
--[Usage](##Usage)
--[Screenshots](##Screenshots)
+1[General info](##-General-Info)
+
+2[Technologies](##Technologies)
+
+3[Installation](##Installation)
+
+4[Instructions](##Instructions)
+
+5[Features](##Features)
+
+6[Usage](##Usage)
+
+7[Screenshots](##Screenshots)
 
 
 
