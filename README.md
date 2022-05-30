@@ -24,9 +24,13 @@ This project is a Note Taker that can be used to write and save notes.This appli
 
 ## Technologies
 Project is created with:
+
 •	JavaScript
+
 •	Node.js
+
 •	npm
+
 •	Heroku
 
 ## Installation
@@ -47,8 +51,11 @@ Project is created with:
 
 ## Features
 •	Inquirer package
+
 •	Jest package
+
 •	Express package
+
 •	UUID package
 
 ## Usage
