@@ -1,6 +1,7 @@
 # Note_Taker
 
-##Table of contents
+## Table of contents
+
 [General info](##-General-Info)
 [Technologies](##Technologies)
 [Installation](##Installation)
@@ -12,22 +13,22 @@
 
 
 
-##General Info
+## General Info
 This project is a Note Taker that can be used to write and save notes.This application uses an Express.js back end and will save and retrieve note data from a JSON file.
 
-##Technologies
+## Technologies
 Project is created with:
 •	JavaScript
 •	Node.js
 •	npm
 •	Heroku
 
-##Installation
+## Installation
 1- To open this project in vscode using git in Terminal/Git Bash:
 2- $ cd in directory there you want to store your project
-3- $ git clone [https://github.com/elfsvet/stepan-matysik-note-taker.git](https://github.com/garcia3325/Note_Taker.git)
+3- $ git clone(https://github.com/garcia3325/Note_Taker.git)
 
-##Instructions
+## Instructions
 1.	Open the link and click "Get Started".
 2.	Type in Title and Text of the note.
 3.	Click on save button if you want to store the note.
@@ -36,13 +37,13 @@ Project is created with:
 6.	Click a note to see it text and title on the right.
 7.	If you want to delete a note, simply click a bucket button next to the note.
 
-##Features
+## Features
 •	Inquirer package
 •	Jest package
 •	Express package
 •	UUID package
 
-##Usage
+## Usage
 A small business owner or student that wants to be able to write and save notes to organize their thoughts and keep track of tasks  whe they are completed
 
-##Screenshots
+## Screenshots
