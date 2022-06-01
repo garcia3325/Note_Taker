@@ -62,4 +62,11 @@ Project is created with:
 A small business owner or student that wants to be able to write and save notes to organize their thoughts and keep track of tasks  whe they are completed
 
 Application can be used by visiting https://wk11-note-taking.herokuapp.com/
+
 ## Screenshots
+
+!homepage](https://github.com/garcia3325/Note_Taker/blob/bb10acf9c24e0655f6fe52524302df61ebe0b3d2/public/assets/images/App%20Homepage.png)
+
+![notes](https://github.com/garcia3325/Note_Taker/blob/bb10acf9c24e0655f6fe52524302df61ebe0b3d2/public/assets/images/App%20Notes.png)
+
+![Video](https://drive.google.com/file/d/10RNUeVGNodTnmxsNwANR2TEmXhGCf_Y1/view)
