@@ -16,7 +16,7 @@
 
 7-[Screenshots](##Screenshots)
 
-8-[Video] (##Video)
+8-[Video](##Video)
 
 
 
