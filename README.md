@@ -16,6 +16,8 @@
 
 7-[Screenshots](##Screenshots)
 
+8-[Video] (##Video)
+
 
 
 
@@ -68,5 +70,7 @@ Application can be used by visiting https://wk11-note-taking.herokuapp.com/
 ![homepage](https://github.com/garcia3325/Note_Taker/blob/bb10acf9c24e0655f6fe52524302df61ebe0b3d2/public/assets/images/App%20Homepage.png)
 
 ![notes](https://github.com/garcia3325/Note_Taker/blob/bb10acf9c24e0655f6fe52524302df61ebe0b3d2/public/assets/images/App%20Notes.png)
+
+## Video
 
 (https://drive.google.com/file/d/10RNUeVGNodTnmxsNwANR2TEmXhGCf_Y1/view)
