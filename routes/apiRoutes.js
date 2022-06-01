@@ -7,6 +7,8 @@ app.get("/api/notes", function(req, res){
       res.json(notes);
     })
 };
+const express = require("express");
+const app = express();
 
 // API Route | "POST" request
 app.post("/api/notes", function (req, res) {
