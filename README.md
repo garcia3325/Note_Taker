@@ -61,4 +61,5 @@ Project is created with:
 ## Usage
 A small business owner or student that wants to be able to write and save notes to organize their thoughts and keep track of tasks  whe they are completed
 
+Application can be used by visiting (https://wk11-note-taking.herokuapp.com/)
 ## Screenshots
