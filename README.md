@@ -1,5 +1,3 @@
-# Note_Taker
-
 ## Table of contents
 
 1-[General info](##-General-Info)
@@ -8,46 +6,69 @@
 
 3-[Installation](##Installation)
 
-4-[Features](##Features)
+4-[Instructions](##Instructions)
 
-5-[Usage](##Usage)
+5-[Features](##Features)
 
-6-[Video](##Video)
+6-[Usage](##Usage)
+
+7-[Screenshots](##Screenshots)
+
+8-[Video](##Video)
+
+
 
 
 ## General Info
-This project is an employee tracker database. It can be use by a small business owner to view and manage the departments, roles, and employees within a company
+This project is a Note Taker that can be used to write and save notes.This application uses an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## Technologies
 Project is created with:
 
-•	Inquirer package
+•	JavaScript
 
-•	Jest package
+•	Node.js
 
-•	console.table 
+•	npm
 
-•	MySQL
-
+•	Heroku
 
 ## Installation
-1- Install Node.js
+1- To open this project in vscode using git in Terminal/Git Bash:
 
-2- Use the schema.sql to create the database in MySQL
+2- $ cd in directory there you want to store your project
 
-3- Run node employeeTracker.js to start the application.
+3- $ git clone(https://github.com/garcia3325/Note_Taker.git)
 
+## Instructions
+1.	Open the link and click "Get Started".
+2.	Type in Title and Text of the note.
+3.	Click on save button if you want to store the note.
+4.	If you change your mind and didn't store the note. But you want to start another note, click on + button. It will remove previous input.
+5.	On the left, after you store at least a note, there will be notes.
+6.	Click a note to see it text and title on the right.
+7.	If you want to delete a note, simply click a bucket button next to the note.
 
 ## Features
 •	Inquirer package
 
 •	Jest package
 
-•	console.table 
+•	Express package
 
-•	MySQL
+•	UUID package
 
 ## Usage
-A small business owner can use this application to be able to view and manage the departments, roles, and employees within a company
+A small business owner or student that wants to be able to write and save notes to organize their thoughts and keep track of tasks  whe they are completed
+
+Application can be used by visiting https://wk11-note-taking.herokuapp.com/
+
+## Screenshots
+
+![homepage](https://github.com/garcia3325/Note_Taker/blob/bb10acf9c24e0655f6fe52524302df61ebe0b3d2/public/assets/images/App%20Homepage.png)
+
+![notes](https://github.com/garcia3325/Note_Taker/blob/bb10acf9c24e0655f6fe52524302df61ebe0b3d2/public/assets/images/App%20Notes.png)
 
 ## Video
+
+(https://drive.google.com/file/d/10RNUeVGNodTnmxsNwANR2TEmXhGCf_Y1/view)
